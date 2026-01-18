@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at Radboud University, where I develop digital biomarkers for Parkinson disease using video processing techniques. Under the supervision of Luc J.W. Evers, Michael Tangermann, Bastiaan R. Bloem, and Yağmur Güçlütürk, my research focuses on creating interpretable, video-based biomarkers to assess the severity and progression of motor symptoms in people with Parkinson disease.
+I am a PhD candidate at Radboud University, where I develop digital biomarkers for Parkinson disease using video processing techniques. Under the supervision of Michael Tangermann, Bastiaan R. Bloem, Yağmur Güçlütürk, and Luc J.W. Evers my research focuses on creating interpretable, video-based biomarkers to assess the severity and progression of motor symptoms in people with Parkinson disease.
 
 Before starting my PhD, I earned my Bachelor’s and Master’s degrees in Electrical Engineering from the University of Guilan, specializing in machine learning and computer vision. My Master’s thesis involved developing an AI model for recognizing abnormal human behavior from video sequences using video processing and machine learning techniques.
 
