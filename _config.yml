@@ -272,8 +272,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zarrat Ehsan]
-  first_name: [Tahereh, T.]
+  last_name: [Ehsan]
+  first_name: [Tahereh Zarrat, T.Z.]
 
   style: apa
   locale: en
