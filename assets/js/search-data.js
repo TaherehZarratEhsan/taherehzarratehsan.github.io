@@ -389,8 +389,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-started-phd",
-          title: 'Started PhD!',
+            },},{id: "news-excited-to-start-my-phd-at-radboudumc",
+          title: 'Excited to start my PhD at Radboudumc!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
