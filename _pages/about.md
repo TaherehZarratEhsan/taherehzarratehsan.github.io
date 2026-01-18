@@ -14,7 +14,7 @@ profile:
     <p>P.O.Box 9101, 6500 HB Nijmegen</p>
     <p>Reinier Postlaan 4 (route 914)</p>
 
-selected_papers: False # includes a list of papers marked as "selected={true}"
+#selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,10 +22,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: False
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: False
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a PhD candidate at Radboud University, where I develop digital biomarkers for Parkinson disease using video processing techniques. Under the supervision of Michael Tangermann, Bastiaan R. Bloem, Yağmur Güçlütürk, and Luc J.W. Evers my research focuses on creating interpretable, video-based biomarkers to assess the severity and progression of motor symptoms in people with Parkinson disease.
