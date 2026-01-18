@@ -2,7 +2,7 @@
 layout: page
 title: Broiler-Net
 description: AI-Based Monitoring of Poultry Behavior
-img: assets/img/12.jpg
+img: assets/img/p1.jpg
 importance: 1
 category: work
 related_publications: true
