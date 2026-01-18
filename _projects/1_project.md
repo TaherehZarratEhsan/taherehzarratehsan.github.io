@@ -16,7 +16,7 @@ In this project, we developed Broiler-Net, an AI-driven framework for real-time 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Broiler-Net: AI-powered poultry behavior monitoring for smart farming.
 </div>
 
 <div class="row">
@@ -31,5 +31,5 @@ In this project, we developed Broiler-Net, an AI-driven framework for real-time 
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Broiler-Net results illustrating, from left to right, chicken detection and tracking, huddling detection, and inactive chicken detection in real farm environments.
 </div>
