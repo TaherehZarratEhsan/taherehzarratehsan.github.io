@@ -14,7 +14,7 @@ profile:
     <p>P.O.Box 9101, 6500 HB Nijmegen</p>
     <p>Reinier Postlaan 4 (route 914)</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
