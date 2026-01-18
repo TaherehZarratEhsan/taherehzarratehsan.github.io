@@ -384,15 +384,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-won-the-icai-interdisciplinary-research-award",
+            },},{id: "news-excited-to-start-my-phd-at-radboudumc",
+          title: 'Excited to start my PhD at Radboudumc!',
+          description: "",
+          section: "News",},{id: "news-won-the-icai-interdisciplinary-research-award",
           title: 'Won the ICAI Interdisciplinary Research Award',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-excited-to-start-my-phd-at-radboudumc",
-          title: 'Excited to start my PhD at Radboudumc!',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
