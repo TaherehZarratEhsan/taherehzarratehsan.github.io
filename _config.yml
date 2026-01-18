@@ -191,7 +191,6 @@ exclude:
   - _pages/teaching.md
   - _pages/cv.md
   - _pages/news.md
-  - _pages/projects.md
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/dropdown.md
