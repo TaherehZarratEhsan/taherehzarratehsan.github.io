@@ -1,14 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Broiler-Net
+description: AI-Based Monitoring of Poultry Behavior
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Broiler-Net is an AI-driven framework designed for real-time analysis of broiler chicken behavior in cage-free poultry houses. The system integrates a deep convolutional object detector (YOLOv4) with a lightweight centroid-based tracking algorithm to continuously monitor individual chickens across video frames.
+Broiler-Net is an AI-driven framework designed for real-time analysis of broiler chicken behavior in cage-free poultry houses. The system integrates a deep convolutional object detector with a lightweight centroid-based tracking algorithm to continuously monitor individual chickens across video frames.
 By analyzing spatial proximity and motion patterns, Broiler-Net automatically detects two critical abnormal behaviors: huddling, which can indicate poor environmental conditions and risk of mortality, and inactivity, an early marker of illness. The framework is optimized for efficiency, making it suitable for deployment on edge devices in real farm environments. Experimental results demonstrate high detection accuracy, highlighting the potential of AI-based monitoring systems to improve animal welfare, reduce economic losses, and support data-driven farm management. 
 
 
