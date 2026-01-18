@@ -149,7 +149,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: False
   projects:
     output: true
 
