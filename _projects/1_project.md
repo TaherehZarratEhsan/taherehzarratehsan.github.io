@@ -33,7 +33,16 @@ Our team participated in the scientific–industrial competition at the 12th Int
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Broiler-Net results illustrating, from left to right, chicken detection and tracking, huddling detection, and inactive chicken detection in real farm environments.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/win.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Certificate of 2nd Place Winner at the 12th International Conference on Computer and Knowledge Engineering (ICCKE 2022), awarded to our team for achievements in the scientific–industrial competition.
 </div>
 
 {% raw %}
