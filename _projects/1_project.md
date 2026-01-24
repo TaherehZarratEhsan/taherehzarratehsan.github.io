@@ -19,9 +19,7 @@ In this project, we developed Broiler-Net, an AI-driven framework for real-time 
     Broiler-Net: AI-powered poultry behavior monitoring for smart farming.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Our team participated in the scientific–industrial competition at the 12th International Conference on Computer and Knowledge Engineering (ICCKE 2022). Our project was recognized for its technical quality and real-world applicability, and we were awarded 2nd place among the participating teams. The competition was sponsored by Pocare Company and focused on bridging academic research with industrial impact.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -34,8 +32,6 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
-
-Our team participated in the scientific–industrial competition at the 12th International Conference on Computer and Knowledge Engineering (ICCKE 2022). Our project was recognized for its technical quality and real-world applicability, and we were awarded 2nd place among the participating teams. The competition was sponsored by Pocare Company and focused on bridging academic research with industrial impact.
 
 {% raw %}
 
