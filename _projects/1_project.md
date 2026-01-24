@@ -37,4 +37,17 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 Our team participated in the scientific–industrial competition at the 12th International Conference on Computer and Knowledge Engineering (ICCKE 2022). Our project was recognized for its technical quality and real-world applicability, and we were awarded 2nd place among the participating teams. The competition was sponsored by Pocare Company and focused on bridging academic research with industrial impact.
 
+{% raw %}
 
+```html
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+```
+
+{% endraw %}
