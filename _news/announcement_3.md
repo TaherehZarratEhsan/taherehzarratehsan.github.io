@@ -7,9 +7,9 @@ inline: false
 related_posts: false
 ---
 
-I'm pleased to announce that our team received 2nd place in the scientific–industrial competition at ICCKE 2022.
+I'm pleased to announce that our team received 2nd place in the scientific–industrial competition at ICCKE 2022. [View the project](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis)
 
-This achievement reflects our commitment to developing innovative solutions that bridge the gap between research and real-world applications. [View the project](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis)
+This achievement reflects our commitment to developing innovative solutions that bridge the gap between research and real-world applications.
 
 I extend my gratitude to my team members and collaborators who contributed to this outstanding result. This recognition motivates us to continue pushing the boundaries of our research.
 
