@@ -60,7 +60,7 @@ ninja.data = [{
           title: 'Won the ICAI Interdisciplinary Research Award',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/won-the-icai-interdisciplinary-research-award/";
             },},{id: "projects-broiler-net",
           title: 'Broiler-Net',
           description: "AI-Based Monitoring of Poultry Behavior",
