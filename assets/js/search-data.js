@@ -50,10 +50,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-iccke-2022-awarded-2nd-place-in-the-scientific-industrial-competition",
-          title: 'ICCKE 2022: Awarded 2nd place in the scientific–industrial competition',
+            },},{id: "news-iccke-2022-2nd-place-award",
+          title: 'ICCKE 2022 - 2nd Place Award',
           description: "",
-          section: "News",},{id: "news-excited-to-start-my-phd-at-radboudumc",
+          section: "News",handler: () => {
+              window.location.href = "/news/iccke-2022-award/";
+            },},{id: "news-excited-to-start-my-phd-at-radboudumc",
           title: 'Excited to start my PhD at Radboudumc!',
           description: "",
           section: "News",},{id: "news-won-the-icai-interdisciplinary-research-award",
