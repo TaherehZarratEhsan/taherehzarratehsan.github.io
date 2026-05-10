@@ -7,14 +7,6 @@ inline: false
 related_posts: false
 ---
 
-I am honored to receive the ICAI Interdisciplinary Research Award for my work at the intersection of artificial intelligence and healthcare. This recognition highlights our team's commitment to building interdisciplinary solutions that combine AI, medical imaging, and clinical collaboration.
-
-Highlights of the award:
-
-- Recognized by ICAI for interdisciplinary research excellence.
-- Award supports ongoing collaboration in AI-driven healthcare innovation.
-- Celebrates the impact of our work on real-world clinical problems.
-
-I am deeply grateful to my supervisors, collaborators, and everyone who supported this research. This award strengthens our motivation to continue advancing AI research that can make a positive difference in healthcare.
-
-If you would like more details, I can add a project link, publication reference, or event information here.
+I’m truly honored to receive the iCAY Day Interdisciplinary Research Award for my PhD work on AI-based video biomarkers for Parkinson disease.
+This recognition reflects the power of interdisciplinary collaboration, bridging neurology and AI to quantify Parkinson’s motor symptoms objectively, precisely, and sensitively.
+Deep gratitude to my supervisors Bas Bloem, Luc Evers, Michael Tangermann, Yağmur Güçlütürk, PhD for their guidance and inspiration, and to the study assessors and participants of the Personalized Parkinson Project, whose contribution makes this work possible and purposeful.
