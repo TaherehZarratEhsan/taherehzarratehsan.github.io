@@ -13,7 +13,5 @@ This recognition reflects the power of interdisciplinary collaboration, bridging
 
 Deep gratitude to my supervisors Bas Bloem, Luc Evers, Michael Tangermann, Yağmur Güçlütürk, PhD for their guidance and inspiration, and to the study assessors and participants of the Personalized Parkinson Project, whose contribution makes this work possible and purposeful.
 
-![Award photo 1](/assets/img/award.jpg)
 
-![Award photo 2](/assets/img/award_.jpg)
 
