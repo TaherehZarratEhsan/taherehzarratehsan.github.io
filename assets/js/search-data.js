@@ -55,11 +55,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/iccke-2022-award/";
-            },},{id: "news-publication",
-          title: 'Publication',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/publication_ft/";
             },},{id: "news-excited-to-start-my-phd-at-radboudumc",
           title: 'Excited to start my PhD at Radboudumc!',
           description: "",
@@ -68,6 +63,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/won-the-icai-interdisciplinary-research-award/";
+            },},{id: "news-our-paper-has-been-published-in-npj-parkinson-39-s-disease",
+          title: 'Our paper has been published in Npj Parkinson&amp;#39;s disease!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/publication_ft/";
             },},{id: "projects-broiler-net",
           title: 'Broiler-Net',
           description: "AI-Based Monitoring of Poultry Behavior",
