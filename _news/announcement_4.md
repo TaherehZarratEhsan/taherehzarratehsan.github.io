@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Publication
+title: Our paper has been published in Npj Parkinson's disease!
 permalink: /news/publication_ft/
-date: 2022-11-18 15:59:00-0400
+date: 2026-5-18 15:59:00-0400
 inline: false
 related_posts: false
 ---
 
 Excited to share that our paper has been published in npj Parkinson’s Disease!
-https://lnkd.in/enbWVfDp
 
 In this study, we developed an interpretable computer vision method to extract clinically meaningful motor features from video recordings of the finger-tapping MDS-UPDRS task. Our results show how AI-driven digital biomarkers can enable more objective and sensitive assessment of Parkinson’s disease progression.
 
@@ -18,7 +17,7 @@ Special thanks to my supervisors and all co-authors Luc Evers Michael Tangermann
 
 
 <p style="text-align:center;">
-  <img src="/assets/img/iccke.jpg" alt="ICCKE 2022 Award" style="max-width:520px; width:100%; height:auto; margin:0.5rem;" />
+  <img src="/assets/img/fig1.png alt="FT publication" style="max-width:520px; width:100%; height:auto; margin:0.5rem;" />
 </p>
 
 
