@@ -55,6 +55,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/iccke-2022-award/";
+            },},{id: "news-publication",
+          title: 'Publication',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/publication_ft/";
             },},{id: "news-excited-to-start-my-phd-at-radboudumc",
           title: 'Excited to start my PhD at Radboudumc!',
           description: "",
