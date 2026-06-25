@@ -63,6 +63,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/won-the-icai-interdisciplinary-research-award/";
+            },},{id: "news-presenting-my-poster-at-digital-biomarkers-in-clinical-trials-summit",
+          title: 'Presenting my poster at Digital Biomarkers in Clinical Trials Summit',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/summit/";
             },},{id: "news-our-paper-has-been-published-in-npj-parkinson-39-s-disease",
           title: 'Our paper has been published in Npj Parkinson&amp;#39;s disease!',
           description: "",
