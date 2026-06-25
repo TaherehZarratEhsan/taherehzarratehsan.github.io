@@ -2,7 +2,7 @@
 layout: post
 title: Presenting my poster at Digital Biomarkers in Clinical Trials Summit
 permalink: /news/summit/
-date: 2025-10-29 16:11:00-0400
+date: 2026-06-23 16:11:00-0400
 inline: false
 related_posts: false
 ---
